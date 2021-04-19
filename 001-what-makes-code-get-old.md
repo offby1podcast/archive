@@ -1,4 +1,4 @@
-# 001 What Makes Code get "old"
+# What Makes Code get "old"
 
 Short episode description goes here. Short episode description goes here. Short episode description goes here.
 
