@@ -26,6 +26,8 @@ Short episode description goes here. Short episode description goes here. Short 
 + Point 2.
 + Point 3.
 
+![Twitter won't let me sign up](img/001-twitter.png)
+
 ## Interesting articles
 
 (03:00)
