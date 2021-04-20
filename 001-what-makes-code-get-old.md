@@ -10,14 +10,13 @@ Released: 21st April 2021.
 
 (00:45)
 
-+ Open source project for Document Object Model (DOM) implementation for PHP.
++ Open source project for [Document Object Model (DOM) implementation for PHP](https://www.php.gt/dom).
+
 ### Jake's week
 
 (05:05)
 
-+ Spec'ing out a new peice of work to enhance our authentication thing called JWT client Authentication
-
-Listening back 5:37 greg takes a drink
++ Spec'ing out a new peice of work to enhance our authentication thing called [JWT client Authentication](https://jwt.io/). 
 
 ## Main topic: What makes code get old?
 
