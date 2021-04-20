@@ -2,6 +2,8 @@
 
 Short episode description goes here. Short episode description goes here. Short episode description goes here.
 
+Released: 21st April 2021.
+
 ## What have we been working on?
 
 ### Jake
