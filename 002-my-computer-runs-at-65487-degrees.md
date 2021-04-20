@@ -1,4 +1,4 @@
-# My computer runs at 65,487 degrees.
+# My computer runs at 65,487 degrees
 
 Short episode description goes here. Short episode description goes here. Short episode description goes here.
 
@@ -6,21 +6,21 @@ Released: 27th April 2021.
 
 ## What have we been working on?
 
-### Greg
+### Greg's week
 
 (00:00)
 
 + Something.
 + Something else.
 
-### Jake
+### Jake's week
 
 (01:00)
 
 + Something.
 + Something else.
 
-## My computer runs at 65,487 degrees.
+## My computer runs at 65,487 degrees
 
 (02:00)
 
@@ -28,7 +28,7 @@ Released: 27th April 2021.
 + Point 2.
 + Point 3.
 
-## Interesting articles
+## Interesting links
 
 (03:00)
 
