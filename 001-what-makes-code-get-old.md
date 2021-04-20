@@ -6,33 +6,36 @@ Released: 21st April 2021.
 
 ## What have we been working on?
 
-### Jake's week
-
-(00:00)
-
-+ Something.
-+ Something else.
-
 ### Greg's week
 
-(01:00)
+(00:45)
 
-+ Something.
-+ Something else.
++ Open source project for Document Object Model (DOM) implementation for PHP.
+### Jake's week
+
+(05:05)
+
++ Spec'ing out a new peice of work to enhance our authentication thing called JWT client Authentication
+
+Listening back 5:37 greg takes a drink
 
 ## Main topic: What makes code get old?
 
-(02:00)
+(12:07)
 
-+ Point 1.
-+ Point 2.
-+ Point 3.
++ Define old code, what do you mean?
++ Is it actually bad?
++ Greg's Calculator app story
+* The value in consistency
+* Whats the answer?
+* Using BDD?
+* Does BBD make you less distracted in wanting to rewrite "old code"?
 
 ![Twitter won't let me sign up](img/001-twitter.png)
 
 ## Interesting links
 
-(03:00)
+(30:00)
 
 + Jake: [Deep Nostalgia](https://www.myheritage.com/deep-nostalgia)
 + Greg [The Future of Web Software is HTML over WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
