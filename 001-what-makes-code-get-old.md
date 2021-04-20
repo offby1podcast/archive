@@ -31,8 +31,6 @@ Listening back 5:37 greg takes a drink
 * Using BDD?
 * Does BBD make you less distracted in wanting to rewrite "old code"?
 
-![Twitter won't let me sign up](img/001-twitter.png)
-
 ## Interesting links
 
 (30:00)
