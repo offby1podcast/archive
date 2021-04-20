@@ -1,6 +1,6 @@
 # What Makes Code get "old"?
 
-Short episode description goes here. Short episode description goes here. Short episode description goes here.
+In their first episode, Jake and Greg discuss the feeling of their code decaying over time. What makes code get old, what can we do to prevent it?
 
 Released: 21st April 2021.
 
