@@ -6,21 +6,21 @@ Released: 21st April 2021.
 
 ## What have we been working on?
 
-### Jake
+### Jake's week
 
 (00:00)
 
 + Something.
 + Something else.
 
-### Greg
+### Greg's week
 
 (01:00)
 
 + Something.
 + Something else.
 
-## What makes code get old?
+## Main topic: What makes code get old?
 
 (02:00)
 
@@ -30,7 +30,7 @@ Released: 21st April 2021.
 
 ![Twitter won't let me sign up](img/001-twitter.png)
 
-## Interesting articles
+## Interesting links
 
 (03:00)
 
