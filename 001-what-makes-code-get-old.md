@@ -1,4 +1,4 @@
-# What Makes Code get "old"
+# What Makes Code get "old"?
 
 Short episode description goes here. Short episode description goes here. Short episode description goes here.
 
@@ -20,7 +20,7 @@ Released: 21st April 2021.
 + Something.
 + Something else.
 
-## What makes code get old
+## What makes code get old?
 
 (02:00)
 
