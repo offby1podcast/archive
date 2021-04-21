@@ -36,3 +36,5 @@ Released: 21st April 2021.
 
 + Jake: [Deep Nostalgia](https://www.myheritage.com/deep-nostalgia)
 + Greg [The Future of Web Software is HTML over WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
+
+![Granny likes Linux](img/001-granny-likes-linux.jpg)	
