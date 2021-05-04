@@ -2,7 +2,7 @@
 
 Short episode description goes here. Short episode description goes here. Short episode description goes here.
 
-Released: 27th April 2021.
+Released: 11th May 2021.
 
 ## What have we been working on?
 
