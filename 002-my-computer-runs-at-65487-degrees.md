@@ -6,31 +6,38 @@ Released: 11th May 2021.
 
 ## What have we been working on?
 
-### Greg's week
-
-(00:00)
-
-+ Something.
-+ Something else.
-
 ### Jake's week
 
-(01:00)
+(00:18)
 
-+ Something.
-+ Something else.
++ Designing a new API around private key JWT
++ Practising incident drills
+
+### Greg's week
+
+(10:20)
+
++ Wood working project
++ Admin, taxes and invoices
++ Question: How do deal with the last 5% of project work
++ Server side DOM document implementation
++ Using Nginx to add functionality to an old Ruby and ASP project
 
 ## My computer runs at 65,487 degrees
 
-(02:00)
+(25:20)
 
-+ Point 1.
-+ Point 2.
-+ Point 3.
++ Jake has been having some computer issues
++ Breaking down the problem
++ Discovering that Jake's computer is running at 65,487 degrees
++ Why the number 65,487 is interesting
 
 ## Interesting links
 
-(03:00)
+(52:13)
 
-+ Greg: ???
-+ Jake: ???
++ Greg: 
+ - https://en.wikipedia.org/wiki/ISO_3103
+ - https://tools.ietf.org/html/rfc1149
++ Jake:
+ - https://plausible.io/
