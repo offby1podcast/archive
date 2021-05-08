@@ -1,6 +1,6 @@
 # My computer runs at 65,487 degrees
 
-Join Greg and Jake as they debug a computer which should be on fire!
+This episode is too hot to handle! How do software developers debug computer hardware?
 
 Released: 11th May 2021.
 
@@ -43,5 +43,4 @@ Released: 11th May 2021.
  - [RFC-1149](https://tools.ietf.org/html/rfc1149)
 + Jake:
  - [Plausible Analytics](https://plausible.io/)
-
 
