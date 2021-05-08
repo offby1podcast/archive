@@ -1,6 +1,6 @@
 # My computer runs at 65,487 degrees
 
-Short episode description goes here. Short episode description goes here. Short episode description goes here.
+Join Greg and Jake as they debug a computer which should be on fire!
 
 Released: 11th May 2021.
 
@@ -10,7 +10,7 @@ Released: 11th May 2021.
 
 (00:18)
 
-+ Designing a new API around private key JWT
++ Designing a new API around private key [JWT](https://jwt.io/)
 + Practising incident drills
 
 ### Greg's week
@@ -20,12 +20,14 @@ Released: 11th May 2021.
 + Wood working project
 + Admin, taxes and invoices
 + Question: How do deal with the last 5% of project work
-+ Server side DOM document implementation
-+ Using Nginx to add functionality to an old Ruby and ASP project
++ Server side [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) document implementation
++ Using [Nginx](https://www.nginx.com/) to add functionality to an old [Ruby](https://www.ruby-lang.org/en/) and [ASP](https://en.wikipedia.org/wiki/Active_Server_Pages) project
 
 ## My computer runs at 65,487 degrees
 
 (25:20)
+
+![Jake's computer running at 65,487](img/002-running-at-65487.jpg)
 
 + Jake has been having some computer issues
 + Breaking down the problem
@@ -37,7 +39,9 @@ Released: 11th May 2021.
 (52:13)
 
 + Greg: 
- - https://en.wikipedia.org/wiki/ISO_3103
- - https://tools.ietf.org/html/rfc1149
+ - [ICO-3103](https://en.wikipedia.org/wiki/ISO_3103)
+ - [RFC-1149](https://tools.ietf.org/html/rfc1149)
 + Jake:
- - https://plausible.io/
+ - [Plausible Analytics](https://plausible.io/)
+
+
