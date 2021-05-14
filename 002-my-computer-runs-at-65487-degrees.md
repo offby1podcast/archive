@@ -38,9 +38,6 @@ Released: 11th May 2021.
 
 (52:13)
 
-+ Greg: 
- - [ICO-3103](https://en.wikipedia.org/wiki/ISO_3103)
- - [RFC-1149](https://tools.ietf.org/html/rfc1149)
-+ Jake:
- - [Plausible Analytics](https://plausible.io/)
++ Greg: [ICO-3103](https://en.wikipedia.org/wiki/ISO_3103), [RFC-1149](https://tools.ietf.org/html/rfc1149)
++ Jake: [Plausible Analytics](https://plausible.io/)
 
