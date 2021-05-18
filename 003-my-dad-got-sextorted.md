@@ -1,6 +1,6 @@
 # My Dad Got Sextorted
 
-----
+In this episode we talk about how scammers can scare you into doing what they want.
 
 Released: 18th May 2021.
 
@@ -12,7 +12,7 @@ Released: 18th May 2021.
 
 + Pledge never touch HTML emails again, but having to touch them.
 + Hidden complexities of HTML email.
-+ Setting upå servers for clients, linux tooling giving quick wins
++ Setting up servers for clients, linux tooling giving quick wins.
 + Clients scared of the cloud.
 + Clients getting DDoS'd, and how Greg prevented it.
 
