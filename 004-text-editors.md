@@ -37,6 +37,7 @@ Released: 29th Jun 2021.
 + Jake's timeline of editors.
 + What is Language Server Protocol (LSP).
 + Greg's timeline of editors.
++ [DIV Games Studio](https://github.com/DIVGAMES/DIV-Games-Studio).
 + ![DIV Games Studio](img/004-div-games-studio.jpg)
 + What is the perfect editor?!
 
