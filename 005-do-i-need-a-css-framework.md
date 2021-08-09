@@ -35,16 +35,16 @@ Released: 10th Aug 2021.
 + Do we need a CSS framework?
 + The downsides of picking up a framework.
 + Greg and Jake go through a list of frameworks:
- + Bootstrap
+ + [Bootstrap](https://getbootstrap.com/)
   + A tangent about Twitter's div problem.
- + Foundation
- + UIKit
- + Bulma
+ + [Foundation](https://get.foundation/)
+ + [UIKit](https://getuikit.com/)
+ + [Bulma](https://bulma.io/)
   + [csszengarden.com](http://www.csszengarden.com/)
- + Materialize
- + Pure.css
- + Tailwind
- + NES.css & PaperCSS
+ + [Materialize](https://materializecss.com/)
+ + [Pure.css](https://purecss.io/)
+ + [Tailwind](https://tailwindcss.com/)
+ + [NES.css](https://nostalgic-css.github.io/NES.css/) & [PaperCSS](https://www.getpapercss.com/)
 + Are there any design patterns we can use in CSS? 
 + Common points between these framework.
 + Could using SCSS more help solve the problem we have?
