@@ -1,13 +1,10 @@
-# Do I need a CSS framework
+# Do I need a CSS framework?
 
-...
-
-https://docs.google.com/document/d/185ooBO0YuDiIdqXA5G2YiDBPfg21gy5BdTdMMg1iMW0/edit
+In this episode we discuss why and what we're looking for in a CSS framework.
 
 Released: 10th Aug 2021.
 
 ## What have we been working on?
-
 ### Jake's week
 
 (01:48)
@@ -26,13 +23,12 @@ Released: 10th Aug 2021.
 + Maintaining an ancient system.
 + Adding a couple of features to energy logger (CCTV, VNC).
 
-## Do I need a CSS framework
+## Do I need a CSS framework?
 
 (27:18)
 
 + Jake is writing way to much CSS, and it doens't feel productive.
 + What kind of CSS is Jake writing.
-+ Do we need a CSS framework?
 + The downsides of picking up a framework.
 + Greg and Jake go through a list of frameworks:
  + [Bootstrap](https://getbootstrap.com/)
