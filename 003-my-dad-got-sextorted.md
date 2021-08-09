@@ -32,7 +32,7 @@ Released: 18th May 2021.
 + Close call scamming stories from Jake.
 + Jake's rant about Google Ads.
 
-## Interesting links
+## Pick of the Pod
 
 (33:33)
 

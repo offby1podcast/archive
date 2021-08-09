@@ -30,7 +30,7 @@ Released: 21st April 2021.
 * Using BDD?
 * Does BBD make you less distracted in wanting to rewrite "old code"?
 
-## Interesting links
+## Pick of the Pod
 
 (30:00)
 

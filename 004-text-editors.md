@@ -41,7 +41,7 @@ Released: 29th Jun 2021.
 + ![DIV Games Studio](img/004-div-games-studio.jpg)
 + What is the perfect editor?!
 
-## Interesting links
+## Pick of the Pod
 
 (116:32)
 
