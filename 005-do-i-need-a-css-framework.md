@@ -32,9 +32,9 @@ Released: 10th Aug 2021.
 
 + Jake is writing way to much CSS, and it doens't feel productive.
 + What kind of CSS is Jake writing.
-+ Do I need a CSS framework...
++ Do we need a CSS framework?
 + The downsides of picking up a framework.
-+ Greg and Jake go through a list of frameworks
++ Greg and Jake go through a list of frameworks:
  + Bootstrap
   + A tangent about Twitter's div problem.
  + Foundation
@@ -46,7 +46,7 @@ Released: 10th Aug 2021.
  + Tailwind
  + NES.css & PaperCSS
 + Are there any design patterns we can use in CSS? 
-+ Common points between these framework
++ Common points between these framework.
 + Could using SCSS more help solve the problem we have?
 + What do we actually want when we're styling?
 
