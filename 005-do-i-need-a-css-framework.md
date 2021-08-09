@@ -1,6 +1,6 @@
 # Do I need a CSS framework?
 
-In this episode we discuss why and what we're looking for in a CSS framework.
+In this episode we discuss what we're looking for in a CSS framework and why.
 
 Released: 10th Aug 2021.
 
