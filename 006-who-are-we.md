@@ -2,7 +2,7 @@
 
 In this episode we share a little about ourselves.
 
-Released: 10th Aug 2021.
+Released: 22th Feb 2022.
 
 (01:19)
 + Jake and Greg shares a little about himself
